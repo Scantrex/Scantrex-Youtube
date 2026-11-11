@@ -63,7 +63,3 @@ LittleScantrexYT es una interfaz sencilla sobre herramientas de código abierto.
 ## Aviso legal
 
 Esta herramienta es solo para **uso personal** con contenido propio, de dominio público o con permiso de su autor. Descargar videos de YouTube puede ir contra sus [Términos de servicio](https://www.youtube.com/t/terms) y el contenido protegido por derechos de autor no es de libre descarga. Cada usuario es responsable del uso que haga de ella. Este proyecto no está afiliado a YouTube ni a Google.
-
-## Créditos
-
-Todo el trabajo pesado lo hacen [yt-dlp](https://github.com/yt-dlp/yt-dlp), [Deno](https://github.com/denoland/deno) y [FFmpeg](https://ffmpeg.org/). Este proyecto solo los envuelve en un menú cómodo.
