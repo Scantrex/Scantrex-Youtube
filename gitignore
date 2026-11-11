@@ -1,0 +1,8 @@
+# Herramientas descargadas automaticamente
+herramientas/
+
+# Videos y temporales
+*.mp4
+*.part
+*.zip
+*.exe
