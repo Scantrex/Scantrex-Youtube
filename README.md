@@ -1,4 +1,4 @@
-# LittleScantrexYT
+# Scantrex & Youtube
 
 Descargador de videos de YouTube en **MP4** para Windows, con menú en la consola, elección de calidad y preparación automática. Un solo archivo `.bat`: sin instalar Python ni nada más a mano.
 
